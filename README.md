@@ -6,3 +6,4 @@
 * We filter the data from "TRANSACTIONS.txt" according to the account number of each user.
 * Program sorts the transactions of each account based on the timeStap
 * THan we print all the data to the "STATEMENT.txt"
+* In print funcation we have seprate condition for printing 'Credit, 'Debit, 'Cash, Check so they can be expanded easily for more funcationality.
