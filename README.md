@@ -5,6 +5,7 @@
 * If its Payment than we add a anothet tag to the data either 'Credit, 'Debit, 'Cash, Check.
 * We filter the data from "TRANSACTIONS.txt" according to the account number of each user.
 * Program sorts the transactions of each account based on the timeStap
-* THan we print all the data to the "STATEMENT.txt"
+* THan we print all the data to the "STATEMENT.txt".
+* All the statements are printed in desending order.
 * If payment method is anything other than 'Credit, 'Debit, 'Cash, Check it prints invalid transaction.
 * In print funcation we have seprate condition for printing 'Credit, 'Debit, 'Cash, Check so they can be expanded easily for more funcationality.
